@@ -1,0 +1,94 @@
+10:32:32.026 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\LICENSE
+10:32:32.032 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\NOTICE
+10:32:32.038 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-console-consumer.sh
+10:32:32.042 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-console-producer.sh
+10:32:32.047 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-consumer-offset-checker.sh
+10:32:32.053 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-consumer-perf-test.sh
+10:32:32.056 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-mirror-maker.sh
+10:32:32.059 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-preferred-replica-election.sh
+10:32:32.063 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-producer-perf-test.sh
+10:32:32.066 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-reassign-partitions.sh
+10:32:32.069 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-replay-log-producer.sh
+10:32:32.073 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-replica-verification.sh
+10:32:32.076 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-run-class.sh
+10:32:32.080 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-server-start.sh
+10:32:32.083 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-server-stop.sh
+10:32:32.086 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-simple-consumer-shell.sh
+10:32:32.089 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\kafka-topics.sh
+10:32:32.093 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-console-consumer.bat
+10:32:32.097 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-console-producer.bat
+10:32:32.102 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-consumer-offset-checker.bat
+10:32:32.106 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-consumer-perf-test.bat
+10:32:32.109 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-mirror-maker.bat
+10:32:32.115 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-preferred-replica-election.bat
+10:32:32.120 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-producer-perf-test.bat
+10:32:32.126 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-reassign-partitions.bat
+10:32:32.130 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-replay-log-producer.bat
+10:32:32.137 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-replica-verification.bat
+10:32:32.141 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-run-class.bat
+10:32:32.146 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-server-start.bat
+10:32:32.151 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-server-stop.bat
+10:32:32.155 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-simple-consumer-shell.bat
+10:32:32.159 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\kafka-topics.bat
+10:32:32.164 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\zookeeper-server-start.bat
+10:32:32.168 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\zookeeper-server-stop.bat
+10:32:32.173 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\windows\zookeeper-shell.bat
+10:32:32.177 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\zookeeper-server-start.sh
+10:32:32.180 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\zookeeper-server-stop.sh
+10:32:32.184 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\bin\zookeeper-shell.sh
+10:32:32.187 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\consumer.properties
+10:32:32.191 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\log4j.properties
+10:32:32.195 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\producer.properties
+10:32:32.198 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\server.properties
+10:32:32.203 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\server.properties~
+10:32:32.207 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\test-log4j.properties
+10:32:32.212 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\tools-log4j.properties
+10:32:32.215 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\config\zookeeper.properties
+10:32:32.224 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\jopt-simple-3.2.jar
+10:32:32.255 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\kafka-clients-0.8.2.0.jar
+10:32:32.281 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\kafka_2.10-0.8.2.0-javadoc.jar
+10:32:32.500 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\kafka_2.10-0.8.2.0-scaladoc.jar
+10:32:32.549 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\kafka_2.10-0.8.2.0-sources.jar
+10:32:32.660 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\kafka_2.10-0.8.2.0-test.jar
+10:32:33.591 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\kafka_2.10-0.8.2.0.jar
+10:32:33.644 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\log4j-1.2.16.jar
+10:32:33.696 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\lz4-1.2.0.jar
+10:32:33.706 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\metrics-core-2.2.0.jar
+10:32:34.329 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\scala-library-2.10.4.jar
+10:32:34.334 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\slf4j-api-1.7.6.jar
+10:32:34.361 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\slf4j-log4j12-1.6.1.jar
+10:32:34.415 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\snappy-java-1.1.1.6.jar
+10:32:34.423 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\zkclient-0.3.jar
+10:32:34.495 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\libs\zookeeper-3.4.6.jar
+10:32:34.499 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\controller.log
+10:32:34.504 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\controller.log.2015-03-10-10
+10:32:34.508 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\controller.log.2015-03-10-11
+10:32:34.512 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\controller.log.2015-03-10-12
+10:32:34.517 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\controller.log.2015-03-10-13
+10:32:34.521 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\controller.log.2015-03-10-14
+10:32:34.525 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\controller.log.2015-03-10-15
+10:32:34.528 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\kafka-request.log
+10:32:34.531 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\log-cleaner.log
+10:32:34.534 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\server.log
+10:32:34.538 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\server.log.2015-03-10-10
+10:32:34.545 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\server.log.2015-03-10-14
+10:32:34.548 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\state-change.log
+10:32:34.551 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\state-change.log.2015-03-10-10
+10:32:34.555 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\state-change.log.2015-03-10-13
+10:32:34.559 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\logs\state-change.log.2015-03-10-14
+10:32:34.563 [main] INFO  ranpanf.DirStorage - write into File E:\foobar\kafka_2.10-0.8.2.0\nohup.out
+07:44:05.038 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.quorum=localhost
+07:44:05.054 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.property.clientPort=2181
+07:44:05.054 [main] INFO  ranpanf.DirStorage - zookeeper.znode.parent/hbase
+07:48:07.767 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.quorum=localhost
+07:48:07.769 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.property.clientPort=2181
+07:48:07.769 [main] INFO  ranpanf.DirStorage - zookeeper.znode.parent/hbase
+07:51:39.796 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.quorum=localhost
+07:51:39.797 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.property.clientPort=2181
+07:51:39.798 [main] INFO  ranpanf.DirStorage - zookeeper.znode.parent/hbase
+07:52:51.690 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.quorum=localhost
+07:52:51.692 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.property.clientPort=2181
+07:52:51.692 [main] INFO  ranpanf.DirStorage - zookeeper.znode.parent/hbase
+08:06:49.727 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.quorum=node1,node2,node3,node4
+08:06:49.728 [main] INFO  ranpanf.DirStorage - hbase.zookeeper.property.clientPort=2184
+08:06:49.729 [main] INFO  ranpanf.DirStorage - zookeeper.znode.parent=/hbase1
